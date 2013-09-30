@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Using Jekyll to blog on github"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
