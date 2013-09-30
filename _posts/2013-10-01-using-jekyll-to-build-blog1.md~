@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Using Jekyll to build blog(1)"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
+
+#Some Tips for using Jekyll
+
+Generally speaking, I followed most of Jekyll-Bootstrap's tutorial. But there are some modification needed to adopt while installing the Jekyll-based blog.
+Before we start, I have to say that:
++ I don't want to write something that other people have already written on their pages.
++ I just want to write a summary or memo for my late review. So this is not a pure toturial.
+
+Oh, and I want to reclaim my computer environment. I'm using Ubuntu 12.04 LTS (debian-based) as my default desktop environment.
+
+Okay, let's do this.
+
+###Setting the environment for Jekyll
+
+Briefly, we need :
++ruby
++bundler(if necessary)
++rubyGem
++a well-set repository named USERNAME.github.io
++Jekyll
+
+As for the local testing, please do remember that the latest Jekyll (version 1.2.1) I use is no longer support following commander:
+
+    sudo jekyll --serve
+
+Instead, the jekyll officially change the commander to this:
+
+    sudo jekyll serve
+
+###Creating the new pages and posts
+
+   (I will finish this in the following days)
