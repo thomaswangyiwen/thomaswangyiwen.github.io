@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Wayne's Laboratory 
+tagline: Simple and Elegant
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Welcome to my page
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
 
@@ -16,10 +14,10 @@ In `_config.yml` remember to specify your own data:
     title : My Blog =)
     
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      name : Thomas Wayne
+      email : vero-org@live.cn
+      github : github.com/thomaswangyiwen
+      twitter : N\A
 
 The theme should reference these variables whenever needed.
     
