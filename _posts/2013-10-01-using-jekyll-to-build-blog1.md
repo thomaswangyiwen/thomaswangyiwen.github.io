@@ -11,10 +11,10 @@ tags: []
 
 Generally speaking, I followed most of Jekyll-Bootstrap's tutorial. But there are some modifications needed to adopt while installing the Jekyll-based blog.
 Before we start, I have to say that:
-+ I don't want to write something that other people have already written on their pages.
-+ I just want to write a summary or memo for my late review. So this is not a pure toturial.
 
-Oh, and I want to reclaim my computer environment. I'm using Ubuntu 12.04 LTS (debian-based) as my default desktop environment.
++ I just want to mainly write a summary or memo for my late review. So this is not a pure toturial.
+
+Oh, and here I want to reclaim my computer environment. I'm using Ubuntu 12.04 LTS (debian-based) as my default desktop environment.
 
 Okay, let's do this.
 
@@ -38,3 +38,25 @@ Instead, the jekyll has officially changed the commander to this:
 ###Creating the new pages and posts
 
    (I will finish this in the following days)
+   
+create a new post:
+    rake post title="new post"
+
+create a new page:
+    rake page name="about.md"
+   
+I do believe these commands are quite self-explanatory.
+   
+
+###updates your repository
+
+anyway, here I will use a few words to tell you how to update your repository to the latest version without conservation of your history version.
+
+Every time you modify something in your local repository, you may want to apply this change to your remote repository on the github. Run this:
+
+    git add -u .
+
+    git commit -m "ANYMSG YOU LIKE"
+
+    git push origin master
+
