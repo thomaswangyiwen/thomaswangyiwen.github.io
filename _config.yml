@@ -7,14 +7,14 @@ pygments: true
 
 # Themes are encouraged to use these universal variables 
 #
-title : Wayne's 
+title : Thomas Wayne's 
 tagline: Eager for the future
 author :
   name : Thomas Wayne
   email : vero-org@live.cn
-  github : github.com/thomaswangyiwen
-  twitter : N\A
-  feedburner : N\A
+  github : thomaswangyiwen
+  twitter : 
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
