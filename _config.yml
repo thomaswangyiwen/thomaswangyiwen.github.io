@@ -73,7 +73,7 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
-  about_path : /about/index.html
+
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : skyfortress
     livefyre :
       site_id : 123
     intensedebate :
