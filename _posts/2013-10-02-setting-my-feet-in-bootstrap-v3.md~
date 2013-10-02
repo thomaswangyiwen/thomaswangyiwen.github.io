@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Setting my feet in bootstrap V3"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
+
+Hmm, to get started with Bootstrap, check out the website [Bootstrap](http://getbootstrap.com/getting-started/ "Bootstrap Getting Started")
+
