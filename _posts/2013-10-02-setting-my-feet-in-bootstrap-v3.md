@@ -1,9 +1,9 @@
 ---
-layout: post
+cd layout: post
 title: "Setting my feet in bootstrap V3"
 description: ""
 category: ""
-tags: []
+tags: [Jekyll,Bootstrap]
 ---
 {% include JB/setup %}
 
