@@ -1,0 +1,29 @@
+---
+layout: post
+title: "算法复杂度基础(1)"
+description: ""
+category: ""
+tags: [algorithm]
+---
+{% include JB/setup %}
+
+#算法复杂度
+为了了解“算法复杂”的概念，我们必须了解这个概念的外延和内涵，了解算法分析能做什么，做不到什么。只有这样，才能确定这个概念的意义是稳固的。名称反而意义不大。
+
+那我们研究复杂度
+渐进时间复杂度(Asympotic time complexity):
+
+线性时间算法（Linear-time algorithm)：
+
+平方时间算法（quadratic-time algorithm)：
+
+多项式时间算法(polynomial-time algorithm)：
+
+指数时间算法：(exponential-time algorithm):
+
+
+
+
+
+
+

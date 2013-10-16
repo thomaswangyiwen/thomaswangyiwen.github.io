@@ -10,6 +10,7 @@ tags: [mental math]
 Recently I have been reviewing some skills in mental arithmetics. I do believe that this kind of skills lead to shaping a basic foundation of an acumen in mathematics, which is required for my further study in logics and mathematics.
 
 Anyway, I will explain this kind of issue in another post, not here. I will talk about some tricks to do mental maths. 
+
 ##The very first rule of mental math
 As a key to the mental calculation, decomposition of a hard problem into many easy-to-do subproblems is the only choice one can have. After you get familiar with ways of "decompositions", practice them many times so that your brain will get used to them. Remember, you have to decompose a very ugly calculating process before you really begin to do it.
 
@@ -19,9 +20,8 @@ Generally speaking, there are no magic tricks which can immediately save your ti
 
 
 ##1.Addtion and Reduction
+
 ####Do it one digit at a time
-
-
 
 
 ##2.Multiplication and Division
