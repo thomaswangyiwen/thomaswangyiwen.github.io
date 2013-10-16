@@ -1,0 +1,8 @@
+---
+layout: post
+title: "If you are a lucky ubuntu user using Ruby"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
