@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-pygments: true
+highlighter: 'pygments'
 
 # Themes are encouraged to use these universal variables 
 #
@@ -16,7 +16,7 @@ author :
   name : Thomas Wayne
   email : vero-org@live.cn
   github : thomaswangyiwen
-  twitter : 
+  twitter : ThomasYiwen
 
 
 # The production_url is only used when full-domain names are needed

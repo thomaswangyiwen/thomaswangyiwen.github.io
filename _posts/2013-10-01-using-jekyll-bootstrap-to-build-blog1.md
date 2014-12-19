@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Using Jekyll bootstrap to build blog(1)"
+title: "Using Jekyll bootstrap to build blog (1)"
 description: ""
 category: ""
-tags: [Jekyll,blog]
+tags: [Jekyll]
 ---
 {% include JB/setup %}
 
@@ -27,7 +27,7 @@ Briefly, we need :
 + a well-set repository named USERNAME.github.io
 + Jekyll
 
-Before you kick a first time test, you need to pay attention to how Jekyll world really works in a brief. The Jekyll is not a blog software, it is a generator that doesn't work automatically and immediately if you modify some files in your local repository. what it means is a following model that you need keep in your mind, always:
+Before you kick a first time test, you need to pay attention to how Jekyll world really works in a brief. The Jekyll is not a blog software, it is just a generator that helps you to translate your markdown-based posts into HTML format webpages. So it doesn't work automatically and immediately if you modify some files in your local repository. what it means is a following model that you need keep in your mind, always:
 
 	Original Stuffs ----> Intermediate Stuffs <----> Server
 
